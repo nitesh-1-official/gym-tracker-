@@ -1,0 +1,5 @@
+{
+  "name": "IronPulse Gym Manager",
+  "description": "A comprehensive management dashboard for single-owner gyms featuring member tracking, financial analytics, and AI-powered renewal reminders.",
+  "requestFramePermissions": []
+}
